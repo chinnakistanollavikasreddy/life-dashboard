@@ -1,0 +1,16 @@
+.vscode/
+.idea/
+
+build/
+
+.dart_tool/
+
+.pytest_cache/
+
+_pycache_/
+
+.env
+
+venv/
+
+node_modules/
